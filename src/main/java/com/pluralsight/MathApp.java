@@ -36,6 +36,10 @@ public class MathApp {
         System.out.println(random);
 
         //8.
+        int second = 1;
+        int minute = second * 60;
+        int day = minute * 24;
+        System.out.println(day * 24);
 
     }
 }
